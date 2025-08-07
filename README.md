@@ -62,9 +62,9 @@
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/andreoliveira-ti](https://www.linkedin.com/in/andre-oliveira-ferreira/)
-- Email: andre.oliveira@email.com *(anferreira@id.uff.br)*
-- GitHub: [github.com/seu-usuario](https://github.com/Anferre)
+- LinkedIn: https://www.linkedin.com/in/andre-oliveira-ferreira
+- Email: anferreira@id.uff.br
+- GitHub: https://github.com/Anferre
 
 ---
 
