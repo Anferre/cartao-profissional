@@ -35,7 +35,7 @@
 ## 🎓 Formação Acadêmica
 
 - **Tecnologia em Computação** – Em andamento  
-- **Técnico em Telecomunicações** – SENAI FATESG
+- **Técnico em Telecomunicações** – SENAI
 
 ---
 
